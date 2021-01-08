@@ -3,8 +3,11 @@ main:
   - title: "About"
     url: /about/
 
-  - title: "Experience"
-    url: /experience.html
+  - title: "Education"
+    url: /education.html
+
+  - title: "Projects"
+    url: /project.html
 
   - title: "Publications"
     url: /publications/
@@ -14,6 +17,3 @@ main:
     
   - title: "CV"
     url: /cv/
-    
-  - title: "Guide"
-    url: /markdown/

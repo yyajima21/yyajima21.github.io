@@ -1,15 +1,16 @@
 ---
-permalink: /experience.html
+permalink: /education.html
 redirect_from:
-  - /experience/
-title: "Experience"
-#excerpt: "/experience/"
+  - /education/
+title: "Education"
 author_profile: true
 ---
 
 ## Education
 * Ph.D. in Robotics, Georgia Institute of Technology, August 2020 - present
+  * Area of Focus: Perception, Artificial Intelligence, Controls
 * M.S. in Mechanical Engineering, Georgia Institute of Technology, May 2020
+  * Area of Focus: Automation, Robotics and Control
 * B.S. in Mechanical Engineering, Georgia Institute of Technology, December 2018
 
 ## Related Courses
