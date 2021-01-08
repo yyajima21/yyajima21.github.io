@@ -1,11 +1,13 @@
 ---
-permalink: /
+permalink: /experience.html
+redirect_from:
+  - /experience/
 title: "Experience"
-excerpt: "/experience/"
+#excerpt: "/experience/"
 author_profile: true
 ---
 
-Education
+## Education
 ======
 * Ph.D. in Robotics, Georgia Institute of Technology, August 2020 - present
 * M.S. in Mechanical Engineering, Georgia Institute of Technology, May 2020
