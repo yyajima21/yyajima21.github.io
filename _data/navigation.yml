@@ -3,17 +3,14 @@ main:
   - title: "About"
     url: /about/
 
-  - title: "Education"
+  - title: "Profile"
     url: /education.html
 
   - title: "Projects"
     url: /project.html
-
-  - title: "Publications"
-    url: /publications/
         
-  - title: "Blog Posts"
-    url: /year-archive/
+  - title: "Research"
+    url: /research.html
     
   - title: "CV"
     url: /cv/
