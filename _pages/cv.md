@@ -24,15 +24,7 @@ redirect_from:
   * Area of Focus: Automation, Robotics and Control
 
 ## Work experience
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* coming soon.
 
 ## Relevant Courses
 * CS6476 Computer Vision

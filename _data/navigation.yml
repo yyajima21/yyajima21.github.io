@@ -11,3 +11,6 @@ main:
         
   - title: "Research"
     url: /research.html
+
+  - title: 'Contact'
+    url: /contanct.html
