@@ -11,9 +11,18 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D. in Robotics, Georgia Institute of Technology
+  * Date: August 2020 - present
+  * Area of Focus: Perception, Artificial Intelligence, Controls
+  * Advisor: Prof. Yong K. Cho
+* M.S. in Robotics, Georgia Institute of Technology
+  * Date: May 2020
+  * Master's Thesis: Vision Systems in Mobility Applications
+  * Area of Focus: Automation, Robotics and Control
+  * Advisor: Prof. Bert Bras
+* B.S. in Mechanical Engineering, Georgia Institute of Technology
+  * Date: December 2018
+  * Area of Focus: Automation, Robotics and Control
 
 Work experience
 ======
@@ -26,7 +35,17 @@ Work experience
   * Github University
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
-  
+
+Relevant Courses
+======
+* CS6476 Computer Vision
+* CS6601 Artificial Intelligence
+* ECE6550 Linear Systems and Control
+* ME6406 Machine Vision
+* ME6407 Robotics
+* ME6408 Advanced Mechatronics
+* MATH6701 Math Methods of Applied Sciences I
+
 Skills
 ======
 * Skill 1

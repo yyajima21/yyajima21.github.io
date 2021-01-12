@@ -4,13 +4,10 @@ main:
     url: /about/
 
   - title: "Profile"
-    url: /education.html
+    url: /cv/
 
   - title: "Projects"
     url: /project.html
         
   - title: "Research"
     url: /research.html
-    
-  - title: "CV"
-    url: /cv/
