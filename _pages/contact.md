@@ -1,10 +1,7 @@
 ---
-permalink: /
-title: "Contact"
-except: "Contact"
+permalink: /contact.html
 redirect_from:
   - /contact/
-  - /contact.html
 title: "Contact"
 author_profile: true
 ---
