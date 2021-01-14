@@ -11,7 +11,7 @@ redirect_from:
 
 ## Education
 * Ph.D. in Robotics, Georgia Institute of Technology
-  * Date: August 2020 - present
+  * Date: August 2020 - Present
   * Area of Focus: Perception, Artificial Intelligence, Controls
   * Advisor: Prof. Yong K. Cho
 * M.S. in Robotics, Georgia Institute of Technology
@@ -22,9 +22,14 @@ redirect_from:
 * B.S. in Mechanical Engineering, Georgia Institute of Technology
   * Date: December 2018
   * Area of Focus: Automation, Robotics and Control
+## Research Experience
+* Graduate Research Assistant at [RICAL Research Lab](http://rical.ce.gatech.edu/), Georgia Tech, Fall 2020 - Present
+* Graduate Research Assistant at [SDM Research Lab](https://ecdm.gatech.edu/), Georgia Tech, Fall 2018 - Spring 2020
 
-## Work experience
-* coming soon.
+## Work Experience
+* Teaching Assistant, [ME-4451 Robotics](https://www.me.gatech.edu/files/ug/me4451.pdf), Georgia Tech, Spring 2020
+* Software Engineering Intern at Bosch, Japan. May 2017 - August 2017
+* Product Engineering Intern at Federal-Mogul Powertrain, Plymouth, MI. January 2017 - May 2017
 
 ## Relevant Courses
 * CS6476 Computer Vision
@@ -35,28 +40,5 @@ redirect_from:
 * ME6408 Advanced Mechatronics
 * MATH6701 Math Methods of Applied Sciences I
 
-## Skills
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
 ## Publications
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-## Talks
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-## Teaching
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-## Service and leadership
 Coming soon.
