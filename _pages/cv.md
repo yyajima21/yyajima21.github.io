@@ -22,6 +22,7 @@ redirect_from:
 * B.S. in Mechanical Engineering, Georgia Institute of Technology
   * Date: December 2018
   * Area of Focus: Automation, Robotics and Control
+
 ## Research Experience
 * Graduate Research Assistant at [RICAL Research Lab](http://rical.ce.gatech.edu/), Georgia Tech, Fall 2020 - Present
 * Graduate Research Assistant at [SDM Research Lab](https://ecdm.gatech.edu/), Georgia Tech, Fall 2018 - Spring 2020
