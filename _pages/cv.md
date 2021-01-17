@@ -24,13 +24,18 @@ redirect_from:
   * Area of Focus: Automation, Robotics and Control
 
 ## Research Experience
-* Graduate Research Assistant at [RICAL Research Lab](http://rical.ce.gatech.edu/), Georgia Tech, Fall 2020 - Present
-* Graduate Research Assistant at [SDM Research Lab](https://ecdm.gatech.edu/), Georgia Tech, Fall 2018 - Spring 2020
+* Graduate Research Assistant at [RICAL Research Lab](http://rical.ce.gatech.edu/), Georgia Tech
+  * Date: August 2020 - Present
+* Graduate Research Assistant at [SDM Research Lab](https://ecdm.gatech.edu/), Georgia Tech 
+  * Date: August 2018 - May 2020
 
 ## Work Experience
-* Teaching Assistant, [ME-4451 Robotics](https://www.me.gatech.edu/files/ug/me4451.pdf), Georgia Tech, Spring 2020
-* Software Engineering Intern at Bosch, Japan. May 2017 - August 2017
-* Product Engineering Intern at Federal-Mogul Powertrain, Plymouth, MI. January 2017 - May 2017
+* Teaching Assistant, [ME-4451 Robotics](https://www.me.gatech.edu/files/ug/me4451.pdf), Georgia Tech
+  * Date: January 2020 - May 2020
+* Software Engineering Intern at Bosch, Japan
+  * Date: May 2017 - August 2017
+* Product Engineering Intern at Federal-Mogul Powertrain, Plymouth, MI
+  * Date: January 2017 - May 2017
 
 ## Relevant Courses
 * CS6476 Computer Vision

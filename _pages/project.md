@@ -5,8 +5,10 @@ redirect_from:
 title: "Projects"
 author_profile: true
 ---
+Here are a list of projects.
+
 ## Robojackets
-RoboJackets is a student run competitive robotics team at Georgia Tech. Within this organization, I was a part of the [RoboNav Team](https://robojackets.org/teams/robonav/) working for computer vision projects such as object detection, classification and point cloud processing using deep learning approach. For further information, please see details below.
+RoboJackets is a student run competitive robotics team at Georgia Tech. Within this organization, I am a part of the [RoboNav Team](https://robojackets.org/teams/robonav/) working for computer vision projects such as object detection, classification and point cloud processing using deep learning approach. For further information, please see details below.
 
 <ul>{% for post in site.robonav %}
   {% include archive-single-cv.html %}
