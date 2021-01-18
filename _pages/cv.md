@@ -14,7 +14,7 @@ redirect_from:
   * Date: August 2020 - Present
   * Area of Focus: Perception, Artificial Intelligence, Controls
   * Advisor: Prof. Yong K. Cho
-* M.S. in Robotics, Georgia Institute of Technology
+* M.S. in Mechanical Engineering, Georgia Institute of Technology
   * Date: May 2020
   * Master's Thesis: Vision Systems in Mobility Applications
   * Area of Focus: Automation, Robotics and Control
