@@ -10,7 +10,7 @@ During my years at Georgia Tech, I have worked on several personal & team projec
 ## RoboJackets
 ![RoboJackets](/images/robonav/robonav_team.jpg)
 <br /><br />
-[RoboJackets](https://robojackets.org/) is a student run competitive robotics team at Georgia Tech. Within this organization, I am a part of the [RoboNav Team](https://robojackets.org/teams/robonav/) working for computer vision projects such as object detection, classification and point cloud processing using deep learning approach. For further information, please see details below.
+[RoboJackets](https://robojackets.org/) is a student run competitive robotics team at Georgia Tech. Within this organization, I am a part of the [RoboNav Team](https://robojackets.org/teams/robonav/) working for computer vision projects such as object detection, classification and point cloud processing using deep learning approach. For further information, please see details below (Photo Credit: RoboJackets).
 
 <ul>{% for post in site.robonav %}
   {% include archive-single-cv.html %}
@@ -22,8 +22,8 @@ AutoRace is a fully electric 4WD RC vehicle that is capable of autonomous drivin
 ## Snowzer - An Automated Snowplow 
 <img src="/images/robonav/snoozer.png" width="1000" height="60">
 <br /><br />
-This project is a part of ME6408 Advanced Mechatronics Group Project. The goal is to develop a low cost autonomous snowplow robot. I was in charge of software development especially computer vision and navigation tasks. For further information, please visit the following [website](https://bryancochrangt.wixsite.com/snowzer-the-machine) and [video](https://www.youtube.com/watch?v=2S0kVQGPxjE&feature=youtu.be).
+This project is a part of ME6408 Advanced Mechatronics Group Project. The goal is to develop a low cost autonomous snowplow robot. I was in charge of software development especially computer vision and navigation tasks. For further information, please visit the following [website](https://bryancochrangt.wixsite.com/snowzer-the-machine) and [video](https://www.youtube.com/watch?v=2S0kVQGPxjE&feature=youtu.be) (Photo Credit: Bryan Cochran).
 
 ## GT Solar Racing Team
 <img src="images/robonav/gt_solar_racing.jpeg" width="1000" height="60">
-Coming soon.
+Coming soon (Photo Credit: Georgia Tech Solar Racing Team).
