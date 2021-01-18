@@ -38,13 +38,15 @@ redirect_from:
   * Date: January 2017 - May 2017
 
 ## Relevant Courses
-* CS6476 Computer Vision
 * CS6601 Artificial Intelligence
+* CS6476 Computer Vision
+* CS7643 Deep Learning
+* CS7648 Interactive Robot Learning
 * ECE6550 Linear Systems and Control
+* MATH6701 Math Methods of Applied Sciences I
 * ME6406 Machine Vision
 * ME6407 Robotics
 * ME6408 Advanced Mechatronics
-* MATH6701 Math Methods of Applied Sciences I
 
 ## Publications
 Coming soon.
