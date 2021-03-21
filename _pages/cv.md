@@ -49,4 +49,6 @@ redirect_from:
 * ME6408 Advanced Mechatronics
 
 ## Publications
-Coming soon.
+  <ul>{% for post in site.publications %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
