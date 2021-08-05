@@ -29,6 +29,12 @@ redirect_from:
 * Graduate Research Assistant at [SDM Research Lab](https://ecdm.gatech.edu/), Georgia Tech 
   * Date: August 2018 - May 2020
 
+## Publications
+* 
+*
+*
+* Yosuke Yajima 2020. "Vision Systems for Mobility Applications." M.S. diss., Georgia Institute of Technology(2020). [[paper]](https://smartech.gatech.edu/bitstream/handle/1853/64655/YAJIMA-THESIS-2020.pdf?sequence=1)
+
 ## Work Experience
 * Teaching Assistant, [ME-4451 Robotics](https://www.me.gatech.edu/files/ug/me4451.pdf), Georgia Tech
   * Date: January 2020 - May 2020
@@ -47,8 +53,3 @@ redirect_from:
 * ME6406 Machine Vision
 * ME6407 Robotics
 * ME6408 Advanced Mechatronics
-
-## Publications
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
