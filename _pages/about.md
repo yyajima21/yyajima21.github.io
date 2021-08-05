@@ -9,11 +9,11 @@ redirect_from:
 ---
 I am a first-year PhD student majoring in [Robotics](http://robotics.gatech.edu/education/phd) at [Georgia Tech](https://www.gatech.edu/) advised by Prof.[Yong K. Cho](http://rical.ce.gatech.edu/). Before joining the Robotics PhD program, I received M.S. in Mechanical Engineering at Georgia Tech, specializing in robotics, automation, and controls in 2020. My research interests lie at the intersection of Computer Vision, Machine Learning, and Controls for mobile robots. Over the past few years, I've been working on computer vision, deep learning, and mobile robot projects at [SDM Research Lab](https://ecdm.gatech.edu/) and [RICAL Research Lab](http://rical.ce.gatech.edu/).
 
-# More Information
-My project page is hosted [here](/project.html)
+My project page is hosted [here](/project.html).
 
 # News
-* Jun 2021: our paper [AI-driven 3D Point Cloud-Based Highway Infrastructure Monitoring System using UAV](publications/2021-6-20-MS_i3ce2021_Mark.md) and [Analysis of Flight Parameters on UAV Semantic Segmentation Performance for Highway Infrastructure Monitoring](publications/2021-6-20-MS_i3ce2021_Mark.md) have been accepted to [i3CE 2021](https://dcp.ufl.edu/cacim/i3ce2021/). 
+
+* Jun 2021: our paper [AI-driven 3D Point Cloud-Based Highway Infrastructure Monitoring System using UAV](_publications/2021-6-20-MS_i3ce2021_Mark.md) and [Analysis of Flight Parameters on UAV Semantic Segmentation Performance for Highway Infrastructure Monitoring](_publications/2021-6-20-MS_i3ce2021_Mark.md) have been accepted to [i3CE 2021](https://dcp.ufl.edu/cacim/i3ce2021/). 
 
 * Jun 2021: Our GTS2B achieves a second place in [Scan-to-BIM challenege at CVPR](https://cv4aec.github.io/). Our oral presentation is available in [this link](https://www.youtube.com/watch?v=DR9ifKxutf8&list=TLGG8vy3pvaCCBQwMzA4MjAyMQ&t=1033s).
 

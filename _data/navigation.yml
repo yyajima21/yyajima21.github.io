@@ -3,11 +3,11 @@ main:
   - title: "About"
     url: /about/
 
-  - title: "Publication"
-    url: /publications/
-
   - title: "Projects"
     url: /project.html
+
+  - title: "Publications"
+    url: /publications/
 
   - title: "CV"
     url: /cv/
