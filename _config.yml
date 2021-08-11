@@ -86,9 +86,9 @@ author:
   location         : "Atlanta, GA"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : #"http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com/citations?user=RqCFZRMAAAAJ&hl=en"
   email            : "yyajima@gatech.edu"
-  researchgate     : # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     : "https://www.researchgate.net/profile/Yosuke-Yajima"
   uri              :
   bitbucket        :
   codepen          :
