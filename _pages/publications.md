@@ -19,6 +19,10 @@ Proceedings of the ASCE 2021 International Conference on Computing in Civil Engi
 Mark Kahoush, **Yosuke Yajima**, Seongyong Kim, Jingdao Chen, Jisoo Park, Steven Kangisser, Javier Irizarry, Yong K. Cho (2021).      
 Proceedings of the ASCE 2021 International Conference on Computing in Civil Engineering (i3CE),Orlando, Florida, USA, September 12-14 [[paper]](https://www.researchgate.net/publication/353817712_Analysis_of_Flight_Parameters_on_UAV_Semantic_Segmentation_Performance_for_Highway_Infrastructure_Monitoring)
 
+4. _Development of Highway Mowing Operations, Monitoring, and Verification using UAVs_      
+**Yosuke Yajima**, Jingdao Chen, Jisoo Park, Steven Kangisser, Javier Irizarry, Yong K. Cho (2021)      
+ASC Poster 2021: 57th Annual Associated Schools of Construction International Conference, Virtual, CA, April 5-8 [[poster]](https://www.researchgate.net/publication/353818495_Development_of_Highway_Mowing_Operations_Monitoring_and_Verification_using_UAVs)
+
 ## 2020
 1. _Vision Systems for Mobility Applications_
 **Yosuke Yajima**, Bert Bras. (2020).      
