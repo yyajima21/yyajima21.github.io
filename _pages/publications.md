@@ -12,11 +12,12 @@ You can also find my google scholar profile [here](https://scholar.google.com/ci
 Proceeding of the International Symposium on Automation and Robotics inConstruction (ISARC), Dubai, UAE, November 3-4 [Under Review] [[paper]]()
 
 2. _AI-driven 3D Point Cloud-Based Highway Infrastructure Monitoring System using UAV_      
-**Yosuke Yajima**, Mark Kahoush, Seongyong Kim, Jingdao Chen, Jisoo Park, Steven Kangisser, Javier Irizarry, Yong K. Cho. (2021).Proceedings of the ASCE 2021 International Conference on Computing in Civil Engineering (i3CE),Orlando, Florida, USA, September 12-14 [[paper]]()
+**Yosuke Yajima**, Mark Kahoush, Seongyong Kim, Jingdao Chen, Jisoo Park, Steven Kangisser, Javier Irizarry, Yong K. Cho. (2021).      
+Proceedings of the ASCE 2021 International Conference on Computing in Civil Engineering (i3CE),Orlando, Florida, USA, September 12-14 [[paper]](https://www.researchgate.net/publication/353750565_AI-driven_3D_Point_Cloud-Based_Highway_Infrastructure_Monitoring_System_using_UAV)
 
 3. _Analysis of Flight Parameters on UAV Semantic Segmentation Performance for Highway Infrastructure Monitoring_      
 Mark Kahoush, **Yosuke Yajima**, Seongyong Kim, Jingdao Chen, Jisoo Park, Steven Kangisser, Javier Irizarry, Yong K. Cho (2021).      
-Proceedings of the ASCE 2021 International Conference on Computing in Civil Engineering (i3CE),Orlando, Florida, USA, September 12-14 [[paper]]()
+Proceedings of the ASCE 2021 International Conference on Computing in Civil Engineering (i3CE),Orlando, Florida, USA, September 12-14 [[paper]](https://www.researchgate.net/publication/353817712_Analysis_of_Flight_Parameters_on_UAV_Semantic_Segmentation_Performance_for_Highway_Infrastructure_Monitoring)
 
 ## 2020
 1. _Vision Systems for Mobility Applications_
