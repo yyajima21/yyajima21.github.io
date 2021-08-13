@@ -26,9 +26,6 @@ In [this competition](https://cv4aec.github.io/), the goal is to reconstruct Bui
 * [Real-Time Clustering for Lidar Point Cloud Data](https://github.com/RoboJackets/igvc-software/tree/master/igvc_perception/src/pointcloud_segmentation)
 
 * [Multiclass Semantic Segmentation](https://github.com/RoboJackets/igvc-software/tree/master/igvc_perception/src/multiclass_segmentation)
-<!--<ul>{% for post in site.robonav %}
-  {% include archive-single-cv.html %}
-{% endfor %}</ul>-->
 
 ## CS7648 Interactive Robot Learning Final Project
 ![CS7648](/images/cs7648/cs7648-method.png)
