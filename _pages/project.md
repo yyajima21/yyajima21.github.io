@@ -23,12 +23,15 @@ In [this competition](https://cv4aec.github.io/), the goal is to reconstruct Bui
 [RoboJackets](https://robojackets.org/) is a competitive robotics team at Georgia Tech. Within this organization, I am a part of the [RoboNav Team](https://robojackets.org/teams/robonav/) working for computer vision projects such as object detection, classification, and point cloud processing using deep learning approach. For further information, please see details below (Photo Credit: RoboJackets).
 
 ### Relevant Projects
-<ul>{% for post in site.robonav %}
+* [Real-Time Clustering for Lidar Point Cloud Data](https://github.com/RoboJackets/igvc-software/tree/master/igvc_perception/src/pointcloud_segmentation)
+
+* [Multiclass Semantic Segmentation](https://github.com/RoboJackets/igvc-software/tree/master/igvc_perception/src/multiclass_segmentation)
+<!--<ul>{% for post in site.robonav %}
   {% include archive-single-cv.html %}
-{% endfor %}</ul>
+{% endfor %}</ul>-->
 
 ## CS7648 Interactive Robot Learning Final Project
-![RoboJackets](/images/cs7648/cs7648-method.png)
+![CS7648](/images/cs7648/cs7648-method.png)
 <br /><br />
 In this class, we focused on studying how to retrain reinforcement learning agent with sub-optimal demonstrations using a simulated racing game from [OpenAI](https://github.com/openai/gym/blob/master/gym/envs/box2d/car_racing.py). Due to increased number of available dataset, some dataset contains sub-optimal demonstration that minimizes the agent to learn an optimal solution. Our team integrates Convergent Actor-Critic by Humans (COACH) to retrain a behavior cloning agent trained with sub-optimal demonstration. The proposed method shows strong performance of retrained models by improving the average of 108 % more efficient than the original models. Our final report is available in [this link](images/cs7648/CS7648_Project.pdf).
 
