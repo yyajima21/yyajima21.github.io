@@ -43,6 +43,8 @@ redirect_from:
 * CS7641 Machine Learning
 * CS7643 Deep Learning
 * CS7648 Interactive Robot Learning
+* CS7785 Intro to Robotics Research
+* CSE6140 Computational Science and Engineering Algorithms
 * ECE6550 Linear Systems and Control
 * MATH6701 Math Methods of Applied Sciences I
 * ME6406 Machine Vision
