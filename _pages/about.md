@@ -13,9 +13,9 @@ My project page is hosted [here](/project.html).
 
 # News
 
-* Jun 2021: Our paper [AI-driven 3D Point Cloud-Based Highway Infrastructure Monitoring System using UAV](https://www.researchgate.net/publication/353750565_AI-driven_3D_Point_Cloud-Based_Highway_Infrastructure_Monitoring_System_using_UAV) and [Analysis of Flight Parameters on UAV Semantic Segmentation Performance for Highway Infrastructure Monitoring](https://www.researchgate.net/publication/353817712_Analysis_of_Flight_Parameters_on_UAV_Semantic_Segmentation_Performance_for_Highway_Infrastructure_Monitoring). 
+* Jun 2021: Our paper [AI-driven 3D Point Cloud-Based Highway Infrastructure Monitoring System using UAV](https://www.researchgate.net/publication/353750565_AI-driven_3D_Point_Cloud-Based_Highway_Infrastructure_Monitoring_System_using_UAV) and [Analysis of Flight Parameters on UAV Semantic Segmentation Performance for Highway Infrastructure Monitoring](https://www.researchgate.net/publication/353817712_Analysis_of_Flight_Parameters_on_UAV_Semantic_Segmentation_Performance_for_Highway_Infrastructure_Monitoring) have been accepted to [i3CE 2021](https://dcp.ufl.edu/cacim/i3ce2021/).
 
-* Jun 2021: Our GTS2B achieves a second place in [Scan-to-BIM challenege at CVPR](https://cv4aec.github.io/). Our oral presentation is available in [this link](https://www.youtube.com/watch?v=DR9ifKxutf8&list=TLGG8vy3pvaCCBQwMzA4MjAyMQ&t=1033s).
+* Jun 2021: Our GTS2B achieved a second place in [Scan-to-BIM challenege at CVPR](https://cv4aec.github.io/). Our oral presentation is available in [this link](https://www.youtube.com/watch?v=DR9ifKxutf8&list=TLGG8vy3pvaCCBQwMzA4MjAyMQ&t=1033s).
 
 * Aug 2020: Started my Ph.D. in Robotics at Georgia Tech under Prof Yong K. Cho.
 
@@ -27,4 +27,4 @@ My project page is hosted [here](/project.html).
 
 * May 2020: Started my M.S. Degree in Mechanical Engineering at Georgia Tech.
 
-* December 2020: Graduate from Georgia Tech with a Bachelor's degree in Mechanical Engineering.
+* December 2020: Graduated from Georgia Tech with a Bachelor's degree in Mechanical Engineering.
