@@ -7,11 +7,12 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a first-year PhD student majoring in [Robotics](http://robotics.gatech.edu/education/phd) at [Georgia Tech](https://www.gatech.edu/) advised by Prof.[Yong K. Cho](http://rical.ce.gatech.edu/). Before joining the Robotics PhD program, I received M.S. in Mechanical Engineering at Georgia Tech, specializing in robotics, automation, and controls in 2020. My research interests lie at the intersection of Computer Vision, Machine Learning, and Controls for mobile robots. Over the past few years, I've been working on computer vision, deep learning, and mobile robot projects at [SDM Research Lab](https://ecdm.gatech.edu/) and [RICAL Research Lab](http://rical.ce.gatech.edu/).
+I am a second-year PhD student majoring in [Robotics](http://robotics.gatech.edu/education/phd) at [Georgia Tech](https://www.gatech.edu/) advised by Prof.[Yong K. Cho](http://rical.ce.gatech.edu/). Before joining the Robotics PhD program, I received M.S. in Mechanical Engineering at Georgia Tech, specializing in robotics, automation, and controls in 2020. My research interests lie at the intersection of Computer Vision, Machine Learning, and Controls for mobile robots. Over the past few years, I've been working on computer vision, deep learning, and mobile robot projects at [SDM Research Lab](https://ecdm.gatech.edu/) and [RICAL Research Lab](http://rical.ce.gatech.edu/).
 
 My project page is hosted [here](/project.html).
 
 # News
+* September 2021: Our paper [Fast Online Incremental Segmentation of 3D Point Clouds from Disaster Sites](https://www.researchgate.net/publication/355075034_Fast_Online_Incremental_Segmentation_of_3D_Point_Clouds_from_Disaster_Sites) have been accepted to [ISARC 2021](http://www.isarc2021.org/).
 
 * Jun 2021: Our paper [AI-driven 3D Point Cloud-Based Highway Infrastructure Monitoring System using UAV](https://www.researchgate.net/publication/353750565_AI-driven_3D_Point_Cloud-Based_Highway_Infrastructure_Monitoring_System_using_UAV) and [Analysis of Flight Parameters on UAV Semantic Segmentation Performance for Highway Infrastructure Monitoring](https://www.researchgate.net/publication/353817712_Analysis_of_Flight_Parameters_on_UAV_Semantic_Segmentation_Performance_for_Highway_Infrastructure_Monitoring) have been accepted to [i3CE 2021](https://dcp.ufl.edu/cacim/i3ce2021/).
 

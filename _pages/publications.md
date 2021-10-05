@@ -9,7 +9,7 @@ You can also find my google scholar profile [here](https://scholar.google.com/ci
 ## 2021
 1. _Real-time Incremental Segmentation of 3D Point Clouds from Disaster Sites_        
 **Yosuke Yajima**, Seongyong Kim, Jingdao Chen, and Yong K. Cho. (2021).      
-Proceeding of the International Symposium on Automation and Robotics in Construction (ISARC), Dubai, UAE, November 3-4 [Under Review] [[paper]]()
+Proceeding of the International Symposium on Automation and Robotics in Construction (ISARC), Dubai, UAE, November 3-4 [[paper]](https://www.researchgate.net/publication/355075034_Fast_Online_Incremental_Segmentation_of_3D_Point_Clouds_from_Disaster_Sites)
 
 2. _AI-driven 3D Point Cloud-Based Highway Infrastructure Monitoring System using UAV_      
 **Yosuke Yajima**, Mark Kahoush, Seongyong Kim, Jingdao Chen, Jisoo Park, Steven Kangisser, Javier Irizarry, Yong K. Cho. (2021).      
